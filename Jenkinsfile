@@ -14,7 +14,7 @@ pipeline {
             steps {
                 sh '''
                              
-                    python3 list_akanksha.py                                         
+                    python3 list_akanksha.py                                              
                 '''
                 
             }
